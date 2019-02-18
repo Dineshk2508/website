@@ -1,1 +1,3 @@
 Hi my first file on git
+done my first commit
+lets try next
